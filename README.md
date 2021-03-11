@@ -1,2 +1,2 @@
 # hello-world
-Just another Repository
+Leetcode challenge and practice record
