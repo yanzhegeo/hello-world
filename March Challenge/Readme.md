@@ -14,3 +14,6 @@ Week 2: March 8th - March 14th
 0. Strobogrammatic Number
 1. Remove Palindromic Subsequences
 2. Add One Row to Tree
+3. Integer to Roman
+4. Coin Change
+
